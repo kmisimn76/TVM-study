@@ -1,4 +1,4 @@
-from RelayExpr import *
+from core.Relay.RelayExpr import *
 
 def print_indent(message, indent):
 	for i in range(indent):
